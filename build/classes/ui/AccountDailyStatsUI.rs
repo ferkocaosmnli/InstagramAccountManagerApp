@@ -1,0 +1,2 @@
+instatracker.ui.AccountDailyStatsUI$1
+instatracker.ui.AccountDailyStatsUI
