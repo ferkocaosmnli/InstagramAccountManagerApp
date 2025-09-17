@@ -6,8 +6,8 @@ import java.sql.SQLException;
 
 public class DBConnection {
     private static final String URL = "jdbc:mysql://localhost:3306/insta_tracker";
-    private static final String USER = "root";              // MySQL kullanıcı adın
-    private static final String PASSWORD = "Tyle1903.";     // MySQL şifren
+    private static final String USER = "....";              // MySQL kullanıcı adın
+    private static final String PASSWORD = "...";     // MySQL şifren
 
     // Veritabanı bağlantısı döndüren metod
     public static Connection getConnection() {
