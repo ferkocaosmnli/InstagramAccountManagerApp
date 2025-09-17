@@ -31,6 +31,16 @@ Kullanıcıların Instagram hesaplarını takip etmelerini, günlük istatistikl
 - JDBC (DB bağlantısı)  
 - MVC / DAO tasarım deseni
 
+## Arayüz Görselleri
+
+![Ana Ekran](https://github.com/user-attachments/assets/b5e10880-e254-480f-ba67-956490ffe15d)
+![Arayüz2](https://github.com/user-attachments/assets/0a0dbddd-8b88-4833-9743-62234e0fcf05)  
+![Arayüz3]([https://github.com/user-attachments/assets/9784df1a-4060-49ee-adf3-e9d44fd106e3](https://github.com/user-attachments/assets/e51ee938-c029-4db9-9942-cc73ce015e9e))  
+
+
+> Not: Kendi resim linklerinle değiştir.
+
+---
 ## Kurulum
 
 1. MySQL’de `insta_tracker` veritabanını oluşturun.  
